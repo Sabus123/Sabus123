@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Sabus123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sabus-hub/README.md
+Hi there 👋, I'm Sabus
+## Frontend Developer | Machine Learning/Deep learning Enthusiast | CSE Student | Problem Solver
+My name is Sabus, and I’m a Computer Science & Engineering student who loves to dream big and explore the world of technology.. My passion lies in Machine Learning, and I'm always learning new skills to contribute to the tech world.
 
-<!---
-Sabus123/Sabus123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am also passionate about problem solving. I enjoy tackling complex algorithms and data structures, regularly participating in online coding contests. Problem-solving helps me stay sharp and continuously improve my coding skills.
+
+## 👨‍💻 About Me:
+🔭 I’m currently working on Machine Learning.
+🌱 I’m currently learning "Linear Algebra for Machine Learning and Data Science by DeepLearning.
+👯 I’m looking to collaborate on Machine Learning.
+💬 Ask me about Machine Learning, Deep Learning
+👨‍🏫 Passionate about competitive programming and solving complex algorithms
+⚡ Fun fact: I’m an introvert who loves learning in solitude!
+## 🛠 Skills:
+Languages: Python, JavaScript,C++
+Frameworks:Next.js, React
+Web Technologies: HTML, CSS, JavaScript
+Data Science: Machine Learning, Deep Learning
+Problem Solving: Algorithms, Data Structures, Dynamic Programming
+
+
