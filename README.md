@@ -5,18 +5,3 @@ My name is Sabus, and I’m a Computer Science & Engineering student who loves t
 
 I am also passionate about problem solving. I enjoy tackling complex algorithms and data structures, regularly participating in online coding contests. Problem-solving helps me stay sharp and continuously improve my coding skills.
 
-## 👨‍💻 About Me:
-🔭 I’m currently working on Machine Learning.
-🌱 I’m currently learning "Linear Algebra for Machine Learning and Data Science by DeepLearning.
-👯 I’m looking to collaborate on Machine Learning.
-💬 Ask me about Machine Learning, Deep Learning
-👨‍🏫 Passionate about competitive programming and solving complex algorithms
-⚡ Fun fact: I’m an introvert who loves learning in solitude!
-## 🛠 Skills:
-Languages: Python, JavaScript,C++
-Frameworks:Next.js, React
-Web Technologies: HTML, CSS, JavaScript
-Data Science: Machine Learning, Deep Learning
-Problem Solving: Algorithms, Data Structures, Dynamic Programming
-
-
