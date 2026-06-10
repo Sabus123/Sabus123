@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Mohammad Sobuj (Sabus)
+# Hi there 👋, I'm Sabus
 
 ## Frontend Developer | Machine Learning / Deep Learning Enthusiast | CSE Student | Problem Solver
 
-My name is **Mohammad Sobuj (Sabus)**, and I’m a Computer Science & Engineering student who loves to dream big and explore the world of technology. I am passionate about building modern web applications and exploring the fascinating world of Artificial Intelligence. My primary interests lie in Machine Learning, Deep Learning, and Software Development, and I am constantly learning new technologies to enhance my skills.
+My name is **Sabus**, and I’m a Computer Science & Engineering student who loves to dream big and explore the world of technology. I am passionate about building modern web applications and exploring the fascinating world of Artificial Intelligence. My primary interests lie in Machine Learning, Deep Learning, and Software Development, and I am constantly learning new technologies to enhance my skills.
 
 I am also passionate about problem solving. I enjoy tackling complex algorithms and data structures, regularly participating in online coding contests. Problem-solving helps me stay sharp and continuously improve my coding skills.
 
@@ -55,8 +55,8 @@ I am also passionate about problem solving. I enjoy tackling complex algorithms 
 
 * Algorithms
 * Data Structures
-* Dynamic Programming
-* Graph Theory
+
+  
 
 ---
 
